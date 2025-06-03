@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using Soenneker.DNSimple.Contacts.Registrars;
 using Soenneker.DNSimple.Delegation.Registrars;
 using Soenneker.DNSimple.Domains.Registrars;
 using Soenneker.DNSimple.Identity.Registrars;
@@ -19,7 +20,8 @@ public static class DNSimpleSuiteRegistrar
         services.AddDNSimpleRegistrarUtilAsSingleton()
                 .AddDNSimpleDelegationUtilAsSingleton()
                 .AddDNSimpleDomainsUtilAsSingleton()
-                .AddDNSimpleIdentityUtilAsSingleton();
+                .AddDNSimpleIdentityUtilAsSingleton()
+                .AddDNSimpleContactsUtilAsSingleton();
 
         return services;
     }
@@ -32,7 +34,8 @@ public static class DNSimpleSuiteRegistrar
         services.AddDNSimpleRegistrarUtilAsScoped()
                 .AddDNSimpleDelegationUtilAsScoped()
                 .AddDNSimpleDomainsUtilAsScoped()
-                .AddDNSimpleIdentityUtilAsScoped();
+                .AddDNSimpleIdentityUtilAsScoped()
+                .AddDNSimpleContactsUtilAsScoped();
 
         return services;
     }
