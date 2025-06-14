@@ -42,7 +42,7 @@
     </ItemGroup>
     
     <ItemGroup>
-      <PackageReference Include="Soenneker.DNSimple.Contacts" Version="3.0.7" />
+      <PackageReference Include="Soenneker.DNSimple.Contacts" Version="3.0.8" />
       <PackageReference Include="Soenneker.DNSimple.Delegation" Version="3.0.242" />
       <PackageReference Include="Soenneker.DNSimple.Domains" Version="3.0.249" />
       <PackageReference Include="Soenneker.DNSimple.Identity" Version="3.0.251" />
