@@ -14,7 +14,7 @@
         <AssemblyName>Soenneker.DNSimple.Suite</AssemblyName>
         <PackageId>Soenneker.DNSimple.Suite</PackageId>
         <PackageTags>dnsimple suite httpclient domain domains registration registrar renew nameservers dns dnsimplesuite util csharp dotnet c# .net</PackageTags>
-        <Copyright>Copyright © 2025 Jake Soenneker</Copyright>
+        <Copyright>Copyright © 2025-2026 Jake Soenneker</Copyright>
         <Authors>Jake Soenneker</Authors>
         <Company>https://soenneker.com</Company>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
