@@ -41,7 +41,7 @@
     </ItemGroup>
     
     <ItemGroup>
-      <PackageReference Include="Soenneker.DNSimple.Contacts" Version="4.0.117" />
+      <PackageReference Include="Soenneker.DNSimple.Contacts" Version="4.0.118" />
       <PackageReference Include="Soenneker.DNSimple.Delegation" Version="4.0.408" />
       <PackageReference Include="Soenneker.DNSimple.Domains" Version="4.0.418" />
       <PackageReference Include="Soenneker.DNSimple.Identity" Version="4.0.414" />
