@@ -48,7 +48,7 @@
       <PackageReference Include="Soenneker.DNSimple.Delegation" Version="4.0.508" />
       <PackageReference Include="Soenneker.DNSimple.Domains" Version="4.0.510" />
       <PackageReference Include="Soenneker.DNSimple.Identity" Version="4.0.510" />
-      <PackageReference Include="Soenneker.DNSimple.Registrar" Version="4.0.497" />
+      <PackageReference Include="Soenneker.DNSimple.Registrar" Version="4.0.498" />
     </ItemGroup>
 
 </Project>
