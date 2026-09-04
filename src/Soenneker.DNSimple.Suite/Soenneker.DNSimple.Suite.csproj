@@ -44,11 +44,11 @@
     </ItemGroup>
     
     <ItemGroup>
-      <PackageReference Include="Soenneker.DNSimple.Contacts" Version="4.0.222" />
-      <PackageReference Include="Soenneker.DNSimple.Delegation" Version="4.0.569" />
-      <PackageReference Include="Soenneker.DNSimple.Domains" Version="4.0.561" />
-      <PackageReference Include="Soenneker.DNSimple.Identity" Version="4.0.562" />
-      <PackageReference Include="Soenneker.DNSimple.Registrar" Version="4.0.625" />
+      <PackageReference Include="Soenneker.DNSimple.Contacts" Version="4.0.223" />
+      <PackageReference Include="Soenneker.DNSimple.Delegation" Version="4.0.570" />
+      <PackageReference Include="Soenneker.DNSimple.Domains" Version="4.0.562" />
+      <PackageReference Include="Soenneker.DNSimple.Identity" Version="4.0.563" />
+      <PackageReference Include="Soenneker.DNSimple.Registrar" Version="4.0.626" />
     </ItemGroup>
 
 </Project>
