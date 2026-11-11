@@ -46,11 +46,11 @@
     </ItemGroup>
     
     <ItemGroup>
-      <PackageReference Include="Soenneker.DNSimple.Contacts" Version="11.0.298" />
+      <PackageReference Include="Soenneker.DNSimple.Contacts" Version="11.0.299" />
       <PackageReference Include="Soenneker.DNSimple.Delegation" Version="11.0.653" />
       <PackageReference Include="Soenneker.DNSimple.Domains" Version="11.0.640" />
-      <PackageReference Include="Soenneker.DNSimple.Identity" Version="11.0.638" />
-      <PackageReference Include="Soenneker.DNSimple.Registrar" Version="11.0.730" />
+      <PackageReference Include="Soenneker.DNSimple.Identity" Version="11.0.639" />
+      <PackageReference Include="Soenneker.DNSimple.Registrar" Version="11.0.731" />
     </ItemGroup>
 
 </Project>
